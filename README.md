@@ -1,4 +1,4 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anklava&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anklava&theme=solarized_dark)
 
 <!--
 **anklava/anklava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
